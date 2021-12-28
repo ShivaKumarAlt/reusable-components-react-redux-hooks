@@ -1,0 +1,16 @@
+li{
+  margin:10px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: lightgray;
+  padding:10px;
+  border-radius: 5px;
+}
+small{
+  float:right;
+}
+.money{
+  color:red;
+}
